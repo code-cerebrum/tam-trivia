@@ -1,6 +1,6 @@
 [
     {"name": "Movies 1", "lvls": 20, "cost": 0, "star": 0, "cover": 0},
-    {"name": "Actors 1", "lvls": 20, "cost": 0, "star": 0, "cover": 1},
+    {"name": "Actors 1", "lvls": 50, "cost": 0, "star": 0, "cover": 1},
     {"name": "Movies 2", "lvls": 20, "cost": 300, "star": 17, "cover": 0},
     {"name": "Movies 3", "lvls": 20, "cost": 450, "star": 34, "cover": 0},
     {"name": "Actors 2", "lvls": 20, "cost": 600, "star": 51, "cover": 17},
