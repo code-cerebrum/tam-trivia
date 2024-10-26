@@ -1,0 +1,18 @@
+[
+    {
+        "name": "SRK",
+        "lvls": 20,
+        "cost": 0,
+        "star": 0,
+        "cover": 0,
+        "des": "Guess the popular movies of Shah Ruh Khan"
+    },
+    {
+        "name": "Salman Khan",
+        "lvls": 20,
+        "cost": 0,
+        "star": 0,
+        "cover": 1,
+        "des": "Guess the popular movies of Salman Khan"
+    }
+]
