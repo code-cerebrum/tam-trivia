@@ -14,5 +14,13 @@
         "star": 0,
         "cover": 1,
         "des": "Guess the popular movies of Vijay"
+    },
+    {
+        "name": "Best of 2024",
+        "lvls": 8,
+        "cost": 0,
+        "star": 0,
+        "cover": 1,
+        "des": "Popular movies of 2024"
     }
 ]
