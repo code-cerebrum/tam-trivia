@@ -1,23 +1,23 @@
 [
     {
         "name": "Rajinikanth",
-        "lvls": 13,
-        "cost": 0,
+        "lvls": 26,
+        "cost": 7,
         "star": 0,
         "cover": 0,
         "des": "Guess the popular movies of Rajinikanth"
     },
     {
         "name": "Vijay",
-        "lvls": 6,
-        "cost": 0,
+        "lvls": 20,
+        "cost": 7,
         "star": 0,
         "cover": 1,
         "des": "Guess the popular movies of Vijay"
     },
     {
         "name": "Best of 2024",
-        "lvls": 8,
+        "lvls": 18,
         "cost": 0,
         "star": 0,
         "cover": 1,
