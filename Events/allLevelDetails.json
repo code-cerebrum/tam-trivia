@@ -1,7 +1,7 @@
 [
     {
         "name": "Rajinikanth",
-        "lvls": 20,
+        "lvls": 5,
         "cost": 0,
         "star": 0,
         "cover": 0,
@@ -9,7 +9,7 @@
     },
     {
         "name": "Vijay",
-        "lvls": 20,
+        "lvls": 6,
         "cost": 0,
         "star": 0,
         "cover": 1,
